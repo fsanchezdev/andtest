@@ -4,6 +4,7 @@ android-compileSdk = "34"
 android-minSdk = "29"
 android-targetSdk = "34"
 java-sdk = "20"
+applicationId = "com.fsanchezdev.androidcomposeapp"
 nameSpace = "com.fsanchezdev.androidcomposeapp.app"
 nameSpaceData = "com.fsanchezdev.androidcomposeapp.datalayer"
 nameSpaceDomain = "com.fsanchezdev.androidcomposeapp.domainlayer"    #not used yet
